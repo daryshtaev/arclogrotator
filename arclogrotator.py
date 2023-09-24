@@ -1,3 +1,4 @@
+# https://github.com/daryshtaev/arclogrotator
 # version 1.0.2
 
 import logging, gzip, shutil, os
