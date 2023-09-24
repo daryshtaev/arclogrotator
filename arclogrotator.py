@@ -1,7 +1,6 @@
 # version 1.0.2
 
 import logging, gzip, shutil, os
-from pathlib import Path
 from logging.handlers import RotatingFileHandler #TimedRotatingFileHandler
 
 def namer(name):
